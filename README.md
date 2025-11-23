@@ -2,11 +2,11 @@
 由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
 
 <p align="center">
-  <a href="https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90" target="_blank">
+  <a href="[https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90](https://youtu.be/rZl2jz--Oes)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ethgan" target="_blank">
+  <a href="[https://github.com/ethgan](https://github.com/ethgan/CF-Worker-BestIP-collector)" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
