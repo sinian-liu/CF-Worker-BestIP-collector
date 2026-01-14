@@ -185,7 +185,7 @@ async function serveHTML(env, request) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cloudflare IP 收集器</title>
+    <title>Cloudflare 优选IP</title>
     <style>
         * {
             margin: 0;
@@ -1432,3 +1432,4 @@ function handleCORS() {
     }
   });
 }
+
